@@ -1,2 +1,2 @@
 # CalculateInterest_C
-Simple piece of code for calculating interest. Language C.
+Simple piece of code for calculating interest produce for an investment. Language C.
